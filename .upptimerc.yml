@@ -4,13 +4,12 @@ repo: upptimev2 # The name of this repository
 
 sites:
   - name: AWS-Tokyo
-    url: http://35.78.235.86
-    port: 51821
+    url: http://35.78.235.86:51821
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptimev2
+  cname: /upptimev2
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
