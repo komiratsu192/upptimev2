@@ -1,22 +1,22 @@
 [
   {
     "name": "AWS-Tokyo",
-    "url": "http://35.78.235.86",
+    "url": "http://35.78.235.86:51821",
     "icon": "https://icons.duckduckgo.com/ip3/35.78.235.86.ico",
     "slug": "aws-tokyo",
-    "status": "down",
-    "uptime": "0.89%",
-    "uptimeDay": "0.89%",
-    "uptimeWeek": "0.89%",
-    "uptimeMonth": "0.89%",
-    "uptimeYear": "0.89%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-02-25": 0
+      "2024-02-25": 2
     }
   }
 ]
