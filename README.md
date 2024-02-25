@@ -1,6 +1,6 @@
-# [📈 Live Status](https://upptimev2): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://komiratsu192.github.io/upptimev2/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [komiratsu192](https://upptimev2), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [komiratsu192](https://komiratsu192.github.io/upptimev2/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/komiratsu192/upptimev2/workflows/Uptime%20CI/badge.svg)](https://github.com/komiratsu192/upptimev2/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/komiratsu192/upptimev2/workflows/Response%20Time%20CI/badge.svg)](https://github.com/komiratsu192/upptimev2/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptimev2)
+[**Visit our status website →**](https://komiratsu192.github.io/upptimev2/)
 
 ## 📄 License
 
