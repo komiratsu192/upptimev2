@@ -4,19 +4,19 @@
     "url": "http://35.78.235.86:51821",
     "icon": "https://icons.duckduckgo.com/ip3/35.78.235.86.ico",
     "slug": "aws-tokyo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 442,
-    "timeDay": 446,
-    "timeWeek": 441,
-    "timeMonth": 433,
+    "timeDay": 460,
+    "timeWeek": 445,
+    "timeMonth": 435,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-04-11": 0
+      "2024-04-11": 18
     }
   }
 ]
